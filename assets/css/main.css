@@ -109,6 +109,11 @@ h6 {
   font-weight: 600;
 }
 
+
+.text-justify {
+  text-align: justify;
+}
+
 .php-email-form .loading {
   display: none;
   background: var(--surface-color);
